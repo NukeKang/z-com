@@ -1,3 +1,3 @@
-export default function SignUp() {
-  return <div>회원가입 페이지</div>;
+export default function Home() {
+  return <main>회원가입 모달</main>;
 }
