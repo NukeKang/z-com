@@ -18,7 +18,6 @@
 }
 
 .leftSectionFixed {
-  /* background-color: orange; */
   position: fixed;
   width: inherit;
   height: 100dvh;
@@ -82,7 +81,6 @@
 }
 
 .rightSectionInner {
-  background-color: aqua;
   height: 100%;
   width: 990px;
   display: flex;
@@ -90,12 +88,10 @@
 }
 
 .main {
-  background-color: aquamarine;
   width: 600px;
 }
 
 .rightSection {
-  background-color: blue;
   width: 350px;
   height: 100%;
 }
